@@ -22,8 +22,69 @@
 # Modul 2
 ## Lernziele
 ### Übertragungstechniken differenzieren
+* ATA/IDE
+  * Advanced Technology Attachement / Integrated Disc Electronics
+  * Festplattencontroller -> Laufwerkselektronik
+  * Übertragungstechnik mit 16bit
+* SATA
+  * Jedes Gerät hat einen eigenen Anschluss
+  * Kabellängen von 1m bis 8m
+  * 150 bis 600 MB/s
+  * 7200U/min
+  * Archivsysteme
+* SCSI
+  * Small Computer System Interface
+  * Festplattencontroller ist zentral
+  * 5MB/s bis 320MB/s
+* SAS
+  * Serial Attached SCSI
+  * 15000U/min
+  * Höhere Verfügbarkeit
+* NVME
+  * Nonvolatile Memory Express
+  * SSDs
+  * mit PCIe Bus
+* Fibre Channel
+  * Storage Area Networks
+  * 5 Level
+  * Upper Layer Protocols
 ### Disksybsysteme erklären und auswählen
+* RAID
+  * RAID 0
+    * high performance
+    * keine Redundanz
+  * RAID 1
+    * Spiegerlung der Platten
+  * RAID 5
+    * Blockweises Striping über alle Platten
+    * eine Platte kann ausfallen
+  * RAID 10
+    * RAID 0 und 1
+* JBOD
+  * Just a bunch of disks
 ### Storagesysteme beschreiben und auswählen
+* Primärspeicher
+  * SSD, RAID und NAS
+  * Direkt am Server oder Speichernetzwerk
+* Sekundärspeicher
+  * langsame Speichersysteme, Backupsoftware
+* Archivspeicher
+  * auf weiteren Datenträger ausgelagert
+* DAS
+  * Direkt Attached Storage
+  * Tier 1 und Tier 0
+  * Datenbank bzw. Caching
+  * nur ein Host
+  * SATA, SAS, eSATA, USB, FireWire
+* NAS
+  * Network Attached Storage
+  * Alternative zu SAN
+  * Clients Anbindung
+  * Tier 2 und Tier 3
+  * Backup-to-Disk
+  * SMB, CIFS, NFS
+* SAN
+  * Storage Area Network
 ### Unified Storage beschreiben
 ### Storageportfolios analysieren
 ### Kennzahlen erläutern
