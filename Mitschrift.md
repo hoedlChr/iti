@@ -298,13 +298,140 @@
 * Rechenzentrumsfaktoren in einer Softwareschicht zusammengeführt
 * Abstraktion der Ressourcen
 ### Eigenschaften von Cloud Computing nennen
+* On-Demand Self-Service
+  * User selbstständig Ressourcen anfordern
+* Broad Network Access
+  * Standardisierte Methoden
+* Measured Service
+  * Cloud Angebot wird überwacht, transparenz
+* Ressource Pooling
+  * Zusammenschluss von Recheninstanzen
+* Rapid Elasticity
+  * ausstellung von Kapazität muss schnell und bedarfsgerecht erfolgen
 ### Cloud Servicemodelle erklären und auswählen
+* Infrastructure as a Service (IaaS)
+  * Rechen- und Speicherleistung (AWS)
+* Platform as a Service (PaaS)
+  * Entwickler eigene Anwendungen erstellen und ausführen (Windows Azure)
+* Software as a Service (SaaS)
+  * vorgefertigten Software Lösungen (Google Apps)
 ### Cloud Bereitstellungsmodelle unterscheiden
+* Private Cloud
+  * Individuell
+  * Datensicher und Compliant
+  * Skaleneffekte und Kosteneinsparungen
+  * Corporate Cloud
+  * Managed Cloud
+  * Outsourced Cloud
+* Hybrid Cloud
+  * Mischform aus Private und Public Cloud
+  * Lastspitzen und Ausfällen auf Public Cloud
+  * Herausforderung im Design, Security und Service Integration
+* Public Cloud
+  * Öffentliche Infrastruktur
+  * Skaleneffekte
+  * keine/wenig Individuelle Anpassungen
+* Community Cloud
+  * Kundenzugang zu einem ERP-System, um Serviceaufträge zu erstellen bzw. Bestellungen einzusehen
+* Multi Cloud
+  * Parallele Nutzung von Cloud-Diensten und Cloud Plattformen, mehrere Anbieter
 ### Chancen und Risiken der Cloud Nutzung aufzählen
+* Chancen
+  * Strategisch
+    * Entwicklung neuer Businessmodelle
+    * Short Time to Market
+    * State of the Art Technology
+    * Fachabteilung höhere Verantwortung
+    * Hohe Systemverfügbarkeit
+  * Finanziell
+    * Reduktion der Investitionskosten in eigene IT-Infrastruktur
+    * Verringerung der Kapitalbindung durch Pay per Use Modelle
+    * Nierdigere Betriebs- und Wartungskosten
+  * Operativ
+    * Schnelle Skalierung der IT-Infrastruktur
+    * Schnelle Realisierung von IT-Projekten
+    * Reduzierte Administrations- und Wartungsaufwand
+    * Einfachter ortsunabhängiger Zugriff
+* Risiken
+  * Verlust des direkten Einflussbereiches der Unternehmen
+  * Zentrale Datenmengen bieten eine große Angriffsfläche
+  * Schwierigere Data-Loss-Prevention
+  * Fehlendes Vertrauen in Datenschutz- und Datensicherheitskonzepte
+  * Unzureichende Interoperabilitöt der Dienste
+  * Verlagerung des Verantwortungsbereiches
+  * Schatten-ITs durch unkontrollierte Cloud Nutzung
+  * Ausfall des öffentlichen Netzwerks bedeutet Ausfall des Services
 ## Lernerfolgskontrolle
 ### Differenzieren Sie Infrastructure Ansätze
+* Traditional Infratructure
+* Converged Infrastructure
+* Hyperconverged Infrastructure
+* Cloud Infrstructure
 ### Vergleichen Sie Software Defined Networking und Software Defined Storage mit traditionellen Ansätzen und beschreiben Sie die beiden Begriffe
+- Bild auf Folie
 ### Nennen Sie die Eingeschaften von Cloud Computing
+
+* On-Demand Self-Service
+  * User selbstständig Ressourcen anfordern
+* Broad Network Access
+  * Standardisierte Methoden
+* Measured Service
+  * Cloud Angebot wird überwacht, transparenz
+* Ressource Pooling
+  * Zusammenschluss von Recheninstanzen
+* Rapid Elasticity
+  * ausstellung von Kapazität muss schnell und bedarfsgerecht erfolgen
 ### Wählen Sie ein Cloud Servicemodell für einen spezifischen Anwendungsfall aus und erklären dieses
+* Traditional/On Premise IT
+* Colocation
+* Hosting
+* IaaS
+* PaaS
+* SaaS
 ### Unterscheiden Sie die fünf Cloud Bereitstellungsmodelle
+* Private Cloud
+  * Individuell
+  * Datensicher und Compliant
+  * Skaleneffekte und Kosteneinsparungen
+  * Corporate Cloud
+  * Managed Cloud
+  * Outsourced Cloud
+* Hybrid Cloud
+  * Mischform aus Private und Public Cloud
+  * Lastspitzen und Ausfällen auf Public Cloud
+  * Herausforderung im Design, Security und Service Integration
+* Public Cloud
+  * Öffentliche Infrastruktur
+  * Skaleneffekte
+  * keine/wenig Individuelle Anpassungen
+* Community Cloud
+  * Kundenzugang zu einem ERP-System, um Serviceaufträge zu erstellen bzw. Bestellungen einzusehen
+* Multi Cloud
+  * Parallele Nutzung von Cloud-Diensten und Cloud Plattformen, mehrere Anbieter
 ### Zählen Sie Chancen und Risiken der Cloud Netzung auf
+
+* Chancen
+  * Strategisch
+    * Entwicklung neuer Businessmodelle
+    * Short Time to Market
+    * State of the Art Technology
+    * Fachabteilung höhere Verantwortung
+    * Hohe Systemverfügbarkeit
+  * Finanziell
+    * Reduktion der Investitionskosten in eigene IT-Infrastruktur
+    * Verringerung der Kapitalbindung durch Pay per Use Modelle
+    * Nierdigere Betriebs- und Wartungskosten
+  * Operativ
+    * Schnelle Skalierung der IT-Infrastruktur
+    * Schnelle Realisierung von IT-Projekten
+    * Reduzierte Administrations- und Wartungsaufwand
+    * Einfachter ortsunabhängiger Zugriff
+* Risiken
+  * Verlust des direkten Einflussbereiches der Unternehmen
+  * Zentrale Datenmengen bieten eine große Angriffsfläche
+  * Schwierigere Data-Loss-Prevention
+  * Fehlendes Vertrauen in Datenschutz- und Datensicherheitskonzepte
+  * Unzureichende Interoperabilitöt der Dienste
+  * Verlagerung des Verantwortungsbereiches
+  * Schatten-ITs durch unkontrollierte Cloud Nutzung
+  * Ausfall des öffentlichen Netzwerks bedeutet Ausfall des Services
