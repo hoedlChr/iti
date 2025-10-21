@@ -1,14 +1,73 @@
 # Modul 1
 ## Lernziele
 ### Kühlungsdesign für Rechenzentren erklären und planen
+* Front to Rear
+* Front to Top
+* Front to Top and Rear
+* Hot Aisle and Cold Aisle
+* Vertikale Unterabodenverteilung
+* Optimierte Viertikale Unterbodenverteilung
+  * Wargang oder Kaltgang Einhausung
+* Vertikale Deckenkanal
+* zusätzlich Lokale Deckkühlgeräte
 ### Infrastrukturelles Bebauungsmanagement erarbeiten
 ### Serverformfaktoren für definierte Bedarfe auswählen
+* Towerserver
+  * kleine Umgebung
+* Rackserver
+  * in Serverräumen oder Rechenzentren
+* Bladeserver
+  * Hochstandardisiert
 ### Physischen und virtuellen Betrieb differenzieren
+* physisch
+  * rechenintensive Systeme
+  * nicht unterstützt Systeme
+  * speziellen Anforderungen
+  * Einfache Lizensierung
+* virtuell
+  * Plattformunabhängig
+  * Dynamische Optimierung
+  * Viele Sicherheitsfeatures
+  * Virtuelisierung ist eine vollständige Lizenz
 ### Funktionalitäten von virtuellen Maschinen erläutern
+* Patitionnierung
+* Isolierung
+* Einkapselung
+* Hardwareunabhängig
 ### Sicherheitsfeatures im virtuellen Betrieb beschreiben
+* vMotion
+  * VMs auf andere Server
+* DRS
+  * Dynamische HW Belegung
+* HA
+  * Startet bei ausfall VM auf anderen Server neu
+* FT
+  * Paralleler Betrieb von Systemen
+* DPM
+  * Konsolidiert Systeme nach Leistung
+* storage vMotion
+  * live Migartion von v. Disken
+* Update Manager
+  * aut. Rollout von Updates
 ### Einsatz der Virtualisierungsebenen erklären
+* Betriebssystemvirtualisierung
+* Applikationsvirtualisierung
+* Sessionvirtualisierung
 ### Lizenzen und Subscriptions differenzieren
+* Subscriptions
+  * keine Version, Berechtigen zur Nutzung der neuesten Technologie
+* Lizenzen
+  * berechtigt zur Nutzung der erworbenen Edition und Version
 ### Lizenzverträge unterscheiden
+* Einzelplatzlizenzen
+  * 
+* Volumenlizenzen
+  * 
+* Ad - Hoc
+  * 
+* Standardisierung
+  * 
+
 ## Lernerfolgskontrolle
 ### Erklären Sie die Warm- und Kaltgangkonzepte
 ### Planen Sie ein Kühldesign für ein Rechenzentrum mit 4 Schrankreihen und Doppelboden, wobei eine Schrankreihe besonders hohe Kühlbedarfe aufweist
